@@ -1,4 +1,4 @@
-#A nano file containing my random thoughts
+#Callums's A nano file containing my random thoughts
 
 List of random thoughts:
 - go for a walk (TODO)
